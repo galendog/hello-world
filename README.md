@@ -3,4 +3,4 @@ Github tutorial
 
 Hi Humans
 
-I'm a Synth watch out for me
+I'm a Synth beware for me
